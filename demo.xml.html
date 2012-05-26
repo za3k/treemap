@@ -1,0 +1,123 @@
+<html>
+<head>
+<style>
+	div.divBox {
+		border-width: 1px;
+		border-style: outset;
+		background: #EEEEEE;
+		/* cursor: default; */
+	}
+</style>
+<title>Complex Treemap example</title>
+</head>
+<body onload="createGUI()">
+
+<script language="JavaScript" src="uk.js"></script>
+
+<div class="divBox" id="myDiv" style="height: 80%; width: 100%; background: #7777AA">
+<p style="text-decoration: blink;" >Loading ... please be patient.</p>
+</div>
+<div class="divBox" style="position: relative; width: 100%; margin-top: 3px">
+	<button style="right: 0px;" id="backButton">Back</button>
+	<span id="infoBox"></span>
+</div>
+
+<script type="text/javascript">
+
+function createGUI()
+{
+	//Check using local file access in IE, as IE won't populate responseXML without a Content-type attr.
+	if( isInternetExplorer() && document.location.protocol != "http:" )
+	{
+		alert( "Internet Explorer really must be run " + document.URL + " from a web server." );
+		return;
+	}
+
+	// Load the XML from the server
+	var filename = "docs1.3.xml";
+	var request = createAjaxRequest();
+	request.onreadystatechange = function () {
+		if( request.readyState != 4 ) return;
+		if( request.status != 200 ) throw "Cannot GET \"" + filename + "\"";
+		window.status = "loaded " + filename;
+
+		// Render the DIV treemap
+		var xml = request.responseXML;
+		var mapDIV = document.getElementById( "myDiv" );
+		var map = new DivTreeMap( mapDIV, xml.documentElement, {
+			adaptor: new XmlAdaptor(),
+			shader: new XmlShader( xml ) 
+		} );
+		
+		// Set up surrounding GUI controls
+		var infoBox = document.getElementById( "infoBox" );
+		var backButton = document.getElementById( "backButton" );
+		
+		map.onBoxClick = function( node ) {
+			infoBox.innerHTML = attrsToString( node );
+		}; 
+		map.onZoomClick = function( node, div )
+		{
+			map.zoom( node, div );
+			backButton.disabled = false;
+		}
+		map.onMouseOver = function( node ) {
+			infoBox.innerHTML = getDetail( node );
+		}; 
+		map.onMouseOut = function( node ) {
+			infoBox.innerHTML = "";
+		}; 
+		backButton.onclick = function() { 
+			backButton.disabled = ( 0 === map.unzoom() );
+		};
+	
+		// Define & plug in a resize hook
+		window.onresize = function() { map.checkResize(); };
+		map.checkResize();
+	}
+	window.status = "loading " + filename;
+	request.open( 'GET', filename, true );
+	request.send( null );
+}
+
+function attrsToString( node )
+{
+	var str = "";
+	for( var i=0; i< node.attributes.length; i++ )
+	{
+		if( i > 0 ) str += ", ";
+		str += attrToString( node.attributes[i] );
+	}
+	return str;
+}
+
+function attrToString( attr )
+{
+	return attr.nodeName + "=" + attr.nodeValue;
+}
+
+function getDetail( elem )
+{
+	var name = elem.getAttribute( "name" );
+	var bytes = rightSize( parseInt( elem.getAttribute( "bytes" ), 10 ) );
+	return name + ": " + bytes;
+}
+
+var K = 1024, M = K * K; G = M * K;
+function rightSize( byteCount )
+{
+	if( byteCount < K ) return byteCount + " bytes";		
+	if( byteCount < M ) return Math.round( byteCount / K ) + " K";
+	if( byteCount < G ) return Math.round( byteCount / M ) + " Meg";
+	
+	return ( byteCount / G ) + " Gig";
+}
+
+</script>
+
+<p>This is a complex treemap example that loads it's data from <a href="docs1.3.xml">docs1.3.xml</a>. 
+This is a 334K XML document describing the space used by the JavaDocs of the 1.3 JDK.<p>
+
+
+</body>
+</html>
