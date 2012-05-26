@@ -1,0 +1,826 @@
+4612	.rpmdb
+1108	.purple/logs/irc/za3k@irc.afternet.org
+1208	.purple/logs/irc/za3k@chat.freenode.net
+2444	.purple/logs/irc
+1808	.purple/logs/jabber/vanceza@gmail.com/frank.adamek.loz@gmail.com
+1236	.purple/logs/jabber/vanceza@gmail.com/elcenia@gmail.com
+1584	.purple/logs/jabber/vanceza@gmail.com/blume.mike@gmail.com
+10976	.purple/logs/jabber/vanceza@gmail.com
+1388	.purple/logs/jabber/za3k.ext@gmail.com
+14328	.purple/logs/jabber
+4208	.purple/logs/omegle/me
+4212	.purple/logs/omegle
+2332	.purple/logs/msn
+1492	.purple/logs/aim/za3k@za3k.com
+1268	.purple/logs/aim/vanceza@gmail.com/notprd
+3632	.purple/logs/aim/vanceza@gmail.com
+5172	.purple/logs/aim
+28888	.purple/logs
+3956	.purple/icons
+35080	.purple
+1504	adomgb
+69508	.cabal/packages/hackage.haskell.org
+69512	.cabal/packages
+1100	.cabal/lib/X11-1.5.0.1/ghc-7.0.3/Graphics/X11
+1160	.cabal/lib/X11-1.5.0.1/ghc-7.0.3/Graphics
+4860	.cabal/lib/X11-1.5.0.1/ghc-7.0.3
+1180	.cabal/lib/X11-1.5.0.1/ghc-7.4.1/Graphics/X11
+1256	.cabal/lib/X11-1.5.0.1/ghc-7.4.1/Graphics
+6200	.cabal/lib/X11-1.5.0.1/ghc-7.4.1
+11064	.cabal/lib/X11-1.5.0.1
+1312	.cabal/lib/HList-0.2.3/ghc-7.0.3
+1316	.cabal/lib/HList-0.2.3
+4164	.cabal/lib/containers-0.3.0.0/ghc-7.4.1
+4168	.cabal/lib/containers-0.3.0.0
+2672	.cabal/lib/transformers-0.3.0.0/ghc-7.4.1
+2676	.cabal/lib/transformers-0.3.0.0
+1500	.cabal/lib/libmpd-0.7.0/ghc-7.0.3
+1504	.cabal/lib/libmpd-0.7.0
+2584	.cabal/lib/network-2.3.0.8/ghc-7.0.3
+2588	.cabal/lib/network-2.3.0.8
+4864	.cabal/lib/time-1.4.0.1/ghc-7.4.1
+4868	.cabal/lib/time-1.4.0.1
+2864	.cabal/lib/mwc-random-0.12.0.0/ghc-7.4.1
+2868	.cabal/lib/mwc-random-0.12.0.0
+1672	.cabal/lib/xmonad-extras-0.10.1/ghc-7.0.3
+1676	.cabal/lib/xmonad-extras-0.10.1
+2240	.cabal/lib/parsec-3.1.2/ghc-7.0.3
+2244	.cabal/lib/parsec-3.1.2
+2184	.cabal/lib/xmonad-contrib-0.10/ghc-7.0.3/XMonad/Layout
+3916	.cabal/lib/xmonad-contrib-0.10/ghc-7.0.3/XMonad
+21824	.cabal/lib/xmonad-contrib-0.10/ghc-7.0.3
+2188	.cabal/lib/xmonad-contrib-0.10/ghc-7.4.1/XMonad/Layout
+3956	.cabal/lib/xmonad-contrib-0.10/ghc-7.4.1/XMonad
+29800	.cabal/lib/xmonad-contrib-0.10/ghc-7.4.1
+51628	.cabal/lib/xmonad-contrib-0.10
+1372	.cabal/lib/hint-0.3.3.3/ghc-7.0.3
+1376	.cabal/lib/hint-0.3.3.3
+1884	.cabal/lib/xmonad-0.10/ghc-7.0.3
+2720	.cabal/lib/xmonad-0.10/ghc-7.4.1
+4608	.cabal/lib/xmonad-0.10
+2176	.cabal/lib/array-0.3.0.3/ghc-7.4.1
+2180	.cabal/lib/array-0.3.0.3
+1464	.cabal/lib/syb-0.3.6
+1376	.cabal/lib/utf8-string-0.3.7
+3556	.cabal/lib/random-fu-0.2.2.0/ghc-7.4.1
+3560	.cabal/lib/random-fu-0.2.2.0
+1584	.cabal/lib/transformers-0.2.2.0/ghc-7.0.3
+1588	.cabal/lib/transformers-0.2.2.0
+6420	.cabal/lib/template-haskell-2.7.0.0/ghc-7.4.1
+6424	.cabal/lib/template-haskell-2.7.0.0
+2908	.cabal/lib/random-source-0.3.0.2/ghc-7.4.1
+2912	.cabal/lib/random-source-0.3.0.2
+2288	.cabal/lib/HTTP-4000.2.2/ghc-7.0.3
+2292	.cabal/lib/HTTP-4000.2.2
+1688	.cabal/lib/random-1.0.1.1/ghc-7.4.1
+1692	.cabal/lib/random-1.0.1.1
+1192	.cabal/lib/gamma-0.9.0.2/ghc-7.4.1
+1196	.cabal/lib/gamma-0.9.0.2
+8532	.cabal/lib/text-0.11.1.12/ghc-7.0.3
+8536	.cabal/lib/text-0.11.1.12
+4704	.cabal/lib/haskell-src-1.0.1.5/ghc-7.0.3
+4708	.cabal/lib/haskell-src-1.0.1.5
+1368	.cabal/lib/vector-0.9.1/ghc-7.4.1/Data/Vector
+1460	.cabal/lib/vector-0.9.1/ghc-7.4.1/Data
+10884	.cabal/lib/vector-0.9.1/ghc-7.4.1
+10888	.cabal/lib/vector-0.9.1
+149512	.cabal/lib
+2608	.cabal/bin
+222112	.cabal
+3636	.porn/Slut/Slut3
+4084	.porn/Slut/Slut1
+3140	.porn/Slut/Slut4
+3384	.porn/Slut/Slut5
+3172	.porn/Slut/Slut6
+2684	.porn/Slut/Slut2
+20152	.porn/Slut
+20840	.porn/world lover
+1656	.porn/Vince
+60528	.porn
+4312	.cache/MonoDevelop-2.6/CodeCompletionData
+4884	.cache/MonoDevelop-2.6
+5372	.cache
+2828	offline reading/academia
+313112	offline reading/bookshelf
+13312	offline reading/singularity publications
+14900	offline reading/others reference
+5612	offline reading/jaynes
+10224	offline reading/sequences
+46024	offline reading/fiction
+6544	offline reading/Phenomenal Memory (GMS) by Ruslan Mescerjakov/Lessons
+23152	offline reading/Phenomenal Memory (GMS) by Ruslan Mescerjakov/Extra's/Flash Cards
+28464	offline reading/Phenomenal Memory (GMS) by Ruslan Mescerjakov/Extra's
+36248	offline reading/Phenomenal Memory (GMS) by Ruslan Mescerjakov
+1968	offline reading/Linux From Scratch
+101024	offline reading/reference
+6556	offline reading/unread/Lessons
+23152	offline reading/unread/Extra's/Flash Cards
+28464	offline reading/unread/Extra's
+313532	offline reading/unread
+1160192	offline reading
+640068	AIWar
+1088	Unprocessed/.purple/logs/jabber/vanceza@gmail.com/frank.adamek.loz@gmail.com
+1016	Unprocessed/.purple/logs/jabber/vanceza@gmail.com/elcenia@gmail.com
+1204	Unprocessed/.purple/logs/jabber/vanceza@gmail.com/blume.mike@gmail.com
+7772	Unprocessed/.purple/logs/jabber/vanceza@gmail.com
+9120	Unprocessed/.purple/logs/jabber
+4208	Unprocessed/.purple/logs/omegle/me
+4212	Unprocessed/.purple/logs/omegle
+1520	Unprocessed/.purple/logs/msn
+2964	Unprocessed/.purple/logs/aim/vanceza@gmail.com
+3952	Unprocessed/.purple/logs/aim
+19268	Unprocessed/.purple/logs
+1724	Unprocessed/.purple/icons
+22836	Unprocessed/.purple
+1048	Unprocessed/shirts
+2184	Unprocessed/.icedteaplugin/cache/http
+2296	Unprocessed/.icedteaplugin/cache
+2304	Unprocessed/.icedteaplugin
+1192	Unprocessed/old backups/usb5/cstackqueue/dev/cstackqueue_ver1.0
+1196	Unprocessed/old backups/usb5/cstackqueue/dev
+1232	Unprocessed/old backups/usb5/cstackqueue
+1932	Unprocessed/old backups/usb5/rosemary
+2336	Unprocessed/old backups/usb5/compare
+25156	Unprocessed/old backups/usb5
+1512	Unprocessed/old backups/mac backup 20110415/mongo-python-driver-py3k/build
+1160	Unprocessed/old backups/mac backup 20110415/mongo-python-driver-py3k/.git/objects/pack
+1168	Unprocessed/old backups/mac backup 20110415/mongo-python-driver-py3k/.git/objects
+1304	Unprocessed/old backups/mac backup 20110415/mongo-python-driver-py3k/.git
+5048	Unprocessed/old backups/mac backup 20110415/mongo-python-driver-py3k
+1440	Unprocessed/old backups/mac backup 20110415/ubelix main
+3592	Unprocessed/old backups/mac backup 20110415/ubelix flex/UbelixUI/bin-debug
+4304	Unprocessed/old backups/mac backup 20110415/ubelix flex/UbelixUI
+5644	Unprocessed/old backups/mac backup 20110415/ubelix flex
+14648	Unprocessed/old backups/mac backup 20110415
+8728	Unprocessed/old backups/macdocs/database theory
+1072	Unprocessed/old backups/macdocs/operating systems projects/hw2
+3124	Unprocessed/old backups/macdocs/operating systems projects
+1440	Unprocessed/old backups/macdocs/ubelix main usb
+34352	Unprocessed/old backups/macdocs
+9700	Unprocessed/old backups/sd/dcim/camera
+10020	Unprocessed/old backups/sd/dcim
+6228	Unprocessed/old backups/sd/vRecord/RecordedSounds
+6236	Unprocessed/old backups/sd/vRecord
+1772	Unprocessed/old backups/sd/Android/data/com.google.android.apps.maps/cache
+1780	Unprocessed/old backups/sd/Android/data/com.google.android.apps.maps
+2340	Unprocessed/old backups/sd/Android/data
+2344	Unprocessed/old backups/sd/Android
+18920	Unprocessed/old backups/sd
+94072	Unprocessed/old backups
+1140	Unprocessed/mozilla/ReadItLater/RIL_assets/borderzine.com/wp-content
+1144	Unprocessed/mozilla/ReadItLater/RIL_assets/borderzine.com
+1244	Unprocessed/mozilla/ReadItLater/RIL_assets/lambda-the-ultimate.org/node
+1256	Unprocessed/mozilla/ReadItLater/RIL_assets/lambda-the-ultimate.org
+2684	Unprocessed/mozilla/ReadItLater/RIL_assets/byob.berkeley.edu
+1036	Unprocessed/mozilla/ReadItLater/RIL_assets/img.alibaba.com
+23840	Unprocessed/mozilla/ReadItLater/RIL_assets
+3260	Unprocessed/mozilla/ReadItLater/RIL_pages
+27104	Unprocessed/mozilla/ReadItLater
+28056	Unprocessed/mozilla
+10340	Unprocessed/linux docs (offline)/python-3.1.3-docs-html/library
+3928	Unprocessed/linux docs (offline)/python-3.1.3-docs-html/_sources/library
+6852	Unprocessed/linux docs (offline)/python-3.1.3-docs-html/_sources
+1428	Unprocessed/linux docs (offline)/python-3.1.3-docs-html/whatsnew
+1496	Unprocessed/linux docs (offline)/python-3.1.3-docs-html/c-api
+27876	Unprocessed/linux docs (offline)/python-3.1.3-docs-html
+27880	Unprocessed/linux docs (offline)
+39332	Unprocessed/.dropbox-dist
+1012	Unprocessed/.odesk/log
+1324	Unprocessed/.odesk
+1460	Unprocessed/.local/share/Trash/expunged/3136325405/dist
+2128	Unprocessed/.local/share/Trash/expunged/3136325405/build/lib.linux-i686-2.6/ankiqt/locale
+3640	Unprocessed/.local/share/Trash/expunged/3136325405/build/lib.linux-i686-2.6/ankiqt
+3644	Unprocessed/.local/share/Trash/expunged/3136325405/build/lib.linux-i686-2.6
+3660	Unprocessed/.local/share/Trash/expunged/3136325405/build
+1236	Unprocessed/.local/share/Trash/expunged/3136325405/libanki/build/lib.linux-i686-2.6/anki
+1240	Unprocessed/.local/share/Trash/expunged/3136325405/libanki/build/lib.linux-i686-2.6
+1248	Unprocessed/.local/share/Trash/expunged/3136325405/libanki/build
+1708	Unprocessed/.local/share/Trash/expunged/3136325405/libanki
+6860	Unprocessed/.local/share/Trash/expunged/3136325405
+6864	Unprocessed/.local/share/Trash/expunged
+6876	Unprocessed/.local/share/Trash
+9132	Unprocessed/.local/share
+9136	Unprocessed/.local
+1540	Unprocessed/.gconf/apps
+2044	Unprocessed/.gconf
+1672	Unprocessed/.Skype/vanceza
+1020	Unprocessed/.Skype/za3komegle/chatsync
+2208	Unprocessed/.Skype/za3komegle
+5040	Unprocessed/.Skype
+1032	Unprocessed/.openoffice.org/3/user/registry/cache
+1180	Unprocessed/.openoffice.org/3/user/registry
+2112	Unprocessed/.openoffice.org/3/user
+2116	Unprocessed/.openoffice.org/3
+2120	Unprocessed/.openoffice.org
+1632	Unprocessed/starting ohio business
+3196	Unprocessed/.config/google-chrome/Default
+11944	Unprocessed/.config/google-chrome
+13644	Unprocessed/.config
+4480	Unprocessed/.vvvvvv
+6184	Unprocessed/.macromedia/Flash_Player/#SharedObjects/3EVFSQLN
+6188	Unprocessed/.macromedia/Flash_Player/#SharedObjects
+2368	Unprocessed/.macromedia/Flash_Player/macromedia.com/support/flashplayer/sys
+2372	Unprocessed/.macromedia/Flash_Player/macromedia.com/support/flashplayer
+2376	Unprocessed/.macromedia/Flash_Player/macromedia.com/support
+2380	Unprocessed/.macromedia/Flash_Player/macromedia.com
+8572	Unprocessed/.macromedia/Flash_Player
+8576	Unprocessed/.macromedia
+1580	Unprocessed/stepmania/Docs
+38780	Unprocessed/stepmania
+12696	Unprocessed/Documents
+4248	Unprocessed/.xmonad
+628488	Unprocessed
+8160	.adobe/Flash_Player/NativeCache/BDCFD8C472AE0D131C2C6E5C57F4F4D1/6607be81
+8148	.adobe/Flash_Player/NativeCache/BDCFD8C472AE0D131C2C6E5C57F4F4D1/111d992a
+8124	.adobe/Flash_Player/NativeCache/BDCFD8C472AE0D131C2C6E5C57F4F4D1/1d9c49b1
+8164	.adobe/Flash_Player/NativeCache/BDCFD8C472AE0D131C2C6E5C57F4F4D1/21d33d09
+8124	.adobe/Flash_Player/NativeCache/BDCFD8C472AE0D131C2C6E5C57F4F4D1/4dd5673d
+8148	.adobe/Flash_Player/NativeCache/BDCFD8C472AE0D131C2C6E5C57F4F4D1/7df37e9c
+48876	.adobe/Flash_Player/NativeCache/BDCFD8C472AE0D131C2C6E5C57F4F4D1
+8144	.adobe/Flash_Player/NativeCache/8D94AB01FDD98AF0D1D91005BAB802F7/70676cc4
+8136	.adobe/Flash_Player/NativeCache/8D94AB01FDD98AF0D1D91005BAB802F7/5f647514
+16288	.adobe/Flash_Player/NativeCache/8D94AB01FDD98AF0D1D91005BAB802F7
+8144	.adobe/Flash_Player/NativeCache/B37919DA1FB3BB0B44E44A5FA2495499/a5264b4
+8152	.adobe/Flash_Player/NativeCache/B37919DA1FB3BB0B44E44A5FA2495499
+8160	.adobe/Flash_Player/NativeCache/84D52A08EE880DA98DB5107E297B83D5/f4e8f2d
+8124	.adobe/Flash_Player/NativeCache/84D52A08EE880DA98DB5107E297B83D5/61312c0c
+16292	.adobe/Flash_Player/NativeCache/84D52A08EE880DA98DB5107E297B83D5
+8164	.adobe/Flash_Player/NativeCache/AE4C7AE0F7C726F183AE7E036D5C7A6F/547a4920
+8172	.adobe/Flash_Player/NativeCache/AE4C7AE0F7C726F183AE7E036D5C7A6F
+7424	.adobe/Flash_Player/NativeCache/F9A67BE648B1AA6F5DCE1CEE1FC01622/768a1633
+7432	.adobe/Flash_Player/NativeCache/F9A67BE648B1AA6F5DCE1CEE1FC01622
+105224	.adobe/Flash_Player/NativeCache
+5052	.adobe/Flash_Player/AssetCache/ER7CVEMW
+5056	.adobe/Flash_Player/AssetCache
+110284	.adobe/Flash_Player
+110288	.adobe
+1760	coffee-script/node_modules/jison/node_modules
+2204	coffee-script/node_modules/jison
+2212	coffee-script/node_modules
+1604	coffee-script/documentation
+9604	coffee-script/.git/objects/pack
+9612	coffee-script/.git/objects
+9976	coffee-script/.git
+14992	coffee-script
+1660	.gstreamer-0.10
+2816	if
+4816	.tor
+5980	atomzombiesmasher/data/content/sounds
+10420	atomzombiesmasher/data/content/music
+6680	atomzombiesmasher/data/content/textures
+23972	atomzombiesmasher/data/content
+43640	atomzombiesmasher/data
+43680	atomzombiesmasher
+3952	Screenshots
+1156	.DropboxZa3k/Dropbox/Photos/Sample Album
+1168	.DropboxZa3k/Dropbox/Photos
+2756	.DropboxZa3k/Dropbox
+2760	.DropboxZa3k
+39332	.dropbox-dist
+610904	installs
+2472	.anki/decks/General Learning.media
+14664	.anki/decks
+113972	.anki/backups
+128676	.anki
+1500	.local/share
+1504	.local
+2884	grub/grub
+2892	grub
+1040	.gconf/apps
+1108	.gconf
+2568	.npm
+4472	VVVVVV/data/levels
+2276	VVVVVV/data/sounds
+63468	VVVVVV/data
+1720	VVVVVV/LIB64
+74688	VVVVVV
+1152	rosemary/.purple/logs/jabber/vanceza@gmail.com/frank.adamek.loz@gmail.com
+1016	rosemary/.purple/logs/jabber/vanceza@gmail.com/elcenia@gmail.com
+1212	rosemary/.purple/logs/jabber/vanceza@gmail.com/blume.mike@gmail.com
+7932	rosemary/.purple/logs/jabber/vanceza@gmail.com
+9440	rosemary/.purple/logs/jabber
+4208	rosemary/.purple/logs/omegle/me
+4212	rosemary/.purple/logs/omegle
+1528	rosemary/.purple/logs/msn
+3000	rosemary/.purple/logs/aim/vanceza@gmail.com
+4008	rosemary/.purple/logs/aim
+19852	rosemary/.purple/logs
+2292	rosemary/.purple/icons
+24124	rosemary/.purple
+3636	rosemary/.porn/Slut/Slut3
+4084	rosemary/.porn/Slut/Slut1
+3140	rosemary/.porn/Slut/Slut4
+3384	rosemary/.porn/Slut/Slut5
+3172	rosemary/.porn/Slut/Slut6
+2684	rosemary/.porn/Slut/Slut2
+20152	rosemary/.porn/Slut
+20840	rosemary/.porn/world lover
+1656	rosemary/.porn/Vince
+58352	rosemary/.porn
+5108	rosemary/.xmonad
+89020	rosemary
+1596	.Skype/vanceza
+1020	.Skype/za3komegle/chatsync
+2208	.Skype/za3komegle
+5024	.Skype
+3416	panda3d-1.7.2/panda/src/pgraph
+2144	panda3d-1.7.2/panda/src/tinydisplay
+2112	panda3d-1.7.2/panda/src/physx
+1112	panda3d-1.7.2/panda/src/display
+1900	panda3d-1.7.2/panda/src/egg
+2224	panda3d-1.7.2/panda/src/express
+2628	panda3d-1.7.2/panda/src/gobj
+1528	panda3d-1.7.2/panda/src/text
+1388	panda3d-1.7.2/panda/src/putil
+1048	panda3d-1.7.2/panda/src/glstuff
+1068	panda3d-1.7.2/panda/src/pipeline
+37572	panda3d-1.7.2/panda/src
+37784	panda3d-1.7.2/panda
+7196	panda3d-1.7.2/pandatool/src
+7208	panda3d-1.7.2/pandatool
+1220	panda3d-1.7.2/contrib/src
+1232	panda3d-1.7.2/contrib
+1356	panda3d-1.7.2/direct/src/plugin
+10196	panda3d-1.7.2/direct/src
+10228	panda3d-1.7.2/direct
+1916	panda3d-1.7.2/models/maps
+7152	panda3d-1.7.2/models
+2540	panda3d-1.7.2/dmodels/src/maps
+3768	panda3d-1.7.2/dmodels/src
+3780	panda3d-1.7.2/dmodels
+2816	panda3d-1.7.2/samples/Roaming-Ralph/models
+3028	panda3d-1.7.2/samples/Roaming-Ralph
+1364	panda3d-1.7.2/samples/Bump-Mapping/models
+1664	panda3d-1.7.2/samples/Bump-Mapping
+1040	panda3d-1.7.2/samples/Motion-Trails/models
+1156	panda3d-1.7.2/samples/Motion-Trails
+2344	panda3d-1.7.2/samples/Texture-Swapping/shadow
+2148	panda3d-1.7.2/samples/Texture-Swapping/explosion
+5224	panda3d-1.7.2/samples/Texture-Swapping
+1076	panda3d-1.7.2/samples/Boxing-Robots
+5116	panda3d-1.7.2/samples/Fireflies/models
+5144	panda3d-1.7.2/samples/Fireflies
+1604	panda3d-1.7.2/samples/Media-Player
+26436	panda3d-1.7.2/samples
+1032	panda3d-1.7.2/dtool/src/dtoolbase
+5140	panda3d-1.7.2/dtool/src
+5720	panda3d-1.7.2/dtool
+4076	panda3d-1.7.2/built/models/maps
+4308	panda3d-1.7.2/built/models
+10900	panda3d-1.7.2/built/lib
+1248	panda3d-1.7.2/built/include/parser-inc
+18412	panda3d-1.7.2/built/include
+20900	panda3d-1.7.2/built/tmp
+1300	panda3d-1.7.2/built/bin
+55956	panda3d-1.7.2/built
+157380	panda3d-1.7.2
+24628	.wine/drive_c/Program Files/AIWar/RuntimeData/updates
+2484	.wine/drive_c/Program Files/AIWar/RuntimeData/Images/GalaxyView
+3716	.wine/drive_c/Program Files/AIWar/RuntimeData/Images/Circles
+1904	.wine/drive_c/Program Files/AIWar/RuntimeData/Images/Explosion/GrenadeExplosion
+1740	.wine/drive_c/Program Files/AIWar/RuntimeData/Images/Explosion/Large
+1532	.wine/drive_c/Program Files/AIWar/RuntimeData/Images/Explosion/Green
+2036	.wine/drive_c/Program Files/AIWar/RuntimeData/Images/Explosion/Large2
+10304	.wine/drive_c/Program Files/AIWar/RuntimeData/Images/Explosion
+20184	.wine/drive_c/Program Files/AIWar/RuntimeData/Images/Ships
+2236	.wine/drive_c/Program Files/AIWar/RuntimeData/Images/Shield
+1624	.wine/drive_c/Program Files/AIWar/RuntimeData/Images/Buy
+19040	.wine/drive_c/Program Files/AIWar/RuntimeData/Images/Planets
+1084	.wine/drive_c/Program Files/AIWar/RuntimeData/Images/Starfield/Nebula
+2136	.wine/drive_c/Program Files/AIWar/RuntimeData/Images/Starfield
+3276	.wine/drive_c/Program Files/AIWar/RuntimeData/Images/ForceField
+69920	.wine/drive_c/Program Files/AIWar/RuntimeData/Images
+2944	.wine/drive_c/Program Files/AIWar/RuntimeData/Sounds
+167024	.wine/drive_c/Program Files/AIWar/RuntimeData/Music/Ingame
+177368	.wine/drive_c/Program Files/AIWar/RuntimeData/Music
+277900	.wine/drive_c/Program Files/AIWar/RuntimeData
+12660	.wine/drive_c/Program Files/AIWar/AIWar_Data/Managed
+2732	.wine/drive_c/Program Files/AIWar/AIWar_Data/Resources
+1304	.wine/drive_c/Program Files/AIWar/AIWar_Data/Plugins
+2592	.wine/drive_c/Program Files/AIWar/AIWar_Data/Mono
+22892	.wine/drive_c/Program Files/AIWar/AIWar_Data
+2956	.wine/drive_c/Program Files/AIWar/AIWar.app/Contents/Resources
+18800	.wine/drive_c/Program Files/AIWar/AIWar.app/Contents/MacOS
+9864	.wine/drive_c/Program Files/AIWar/AIWar.app/Contents/Data/Managed
+13460	.wine/drive_c/Program Files/AIWar/AIWar.app/Contents/Data
+5836	.wine/drive_c/Program Files/AIWar/AIWar.app/Contents/Frameworks/MonoEmbedRuntime/osx
+5840	.wine/drive_c/Program Files/AIWar/AIWar.app/Contents/Frameworks/MonoEmbedRuntime
+5844	.wine/drive_c/Program Files/AIWar/AIWar.app/Contents/Frameworks
+41164	.wine/drive_c/Program Files/AIWar/AIWar.app/Contents
+41168	.wine/drive_c/Program Files/AIWar/AIWar.app
+402416	.wine/drive_c/Program Files/AIWar
+402460	.wine/drive_c/Program Files
+13296	.wine/drive_c/windows/Installer
+28644	.wine/drive_c/windows/system32/gecko/1.3/wine_gecko
+28648	.wine/drive_c/windows/system32/gecko/1.3
+28660	.wine/drive_c/windows/system32/gecko
+41336	.wine/drive_c/windows/system32
+55964	.wine/drive_c/windows
+2748	.wine/drive_c/FrozenSynapseDemo/common/data/fonts
+2776	.wine/drive_c/FrozenSynapseDemo/common/data
+19636	.wine/drive_c/FrozenSynapseDemo/common/gui/images
+19792	.wine/drive_c/FrozenSynapseDemo/common/gui
+22924	.wine/drive_c/FrozenSynapseDemo/common
+2084	.wine/drive_c/FrozenSynapseDemo/tools
+1028	.wine/drive_c/FrozenSynapseDemo/psychoff/data/spLevels
+1384	.wine/drive_c/FrozenSynapseDemo/psychoff/data/levels
+3840	.wine/drive_c/FrozenSynapseDemo/psychoff/data/cutscenes
+5496	.wine/drive_c/FrozenSynapseDemo/psychoff/data/images/background
+19388	.wine/drive_c/FrozenSynapseDemo/psychoff/data/images
+1748	.wine/drive_c/FrozenSynapseDemo/psychoff/data/encounters
+73376	.wine/drive_c/FrozenSynapseDemo/psychoff/data/sound/Final/Music
+84960	.wine/drive_c/FrozenSynapseDemo/psychoff/data/sound/Final
+84964	.wine/drive_c/FrozenSynapseDemo/psychoff/data/sound
+2044	.wine/drive_c/FrozenSynapseDemo/psychoff/data/shapes
+116644	.wine/drive_c/FrozenSynapseDemo/psychoff/data
+119604	.wine/drive_c/FrozenSynapseDemo/psychoff
+3268	.wine/drive_c/FrozenSynapseDemo/cwrsync
+1272	.wine/drive_c/FrozenSynapseDemo/TGB/data/images
+1740	.wine/drive_c/FrozenSynapseDemo/TGB/data
+1768	.wine/drive_c/FrozenSynapseDemo/TGB
+166988	.wine/drive_c/FrozenSynapseDemo
+3064	.wine/drive_c/users/zachary/Temp
+2236	.wine/drive_c/users/zachary/Application Data/wine_gecko
+2240	.wine/drive_c/users/zachary/Application Data
+5364	.wine/drive_c/users/zachary
+5452	.wine/drive_c/users
+630868	.wine/drive_c
+631680	.wine
+1104	.icedtea/cache/22/http/files.gokgs.com/javaBin-3.5.10
+1108	.icedtea/cache/22/http/files.gokgs.com
+1112	.icedtea/cache/22/http
+1116	.icedtea/cache/22
+9092	.icedtea/cache
+9124	.icedtea
+8060	AndYetItMoves/game/data/levels
+2296	AndYetItMoves/game/data/images/player
+1652	AndYetItMoves/game/data/images/Menu/levels
+5316	AndYetItMoves/game/data/images/Menu
+2212	AndYetItMoves/game/data/images/PaperAndMasks
+10368	AndYetItMoves/game/data/images
+1796	AndYetItMoves/game/data/audio/jungle
+1880	AndYetItMoves/game/data/audio/markovparts/jungleambience
+2280	AndYetItMoves/game/data/audio/markovparts/caveambience
+12928	AndYetItMoves/game/data/audio/markovparts/tripambience/beats
+15640	AndYetItMoves/game/data/audio/markovparts/tripambience
+19804	AndYetItMoves/game/data/audio/markovparts
+2940	AndYetItMoves/game/data/audio/music
+26600	AndYetItMoves/game/data/audio
+74520	AndYetItMoves/game/data
+76528	AndYetItMoves/game
+5844	AndYetItMoves/lib
+1008	AndYetItMoves/resources/trip3Art
+1180	AndYetItMoves/resources/tripArt/tiles
+1268	AndYetItMoves/resources/tripArt
+1052	AndYetItMoves/resources/trip1Art/images
+1072	AndYetItMoves/resources/trip1Art
+1284	AndYetItMoves/resources/jungleArt/textures
+2068	AndYetItMoves/resources/jungleArt
+13244	AndYetItMoves/resources
+124988	AndYetItMoves
+9840	.thumbnails/normal
+9844	.thumbnails
+1016	outsidehome/etc/bash_completion.d
+9080	outsidehome/etc
+9084	outsidehome
+1752	.minecraft/bin (copy)/natives
+5156	.minecraft/bin (copy)
+2352	.minecraft/saves/New World/region
+2372	.minecraft/saves/New World
+2032	.minecraft/saves/1.0.0 Pocket Universe/DIM-1/region
+2036	.minecraft/saves/1.0.0 Pocket Universe/DIM-1
+12604	.minecraft/saves/1.0.0 Pocket Universe/region
+14660	.minecraft/saves/1.0.0 Pocket Universe
+29680	.minecraft/saves/Hardcore 1/region
+29700	.minecraft/saves/Hardcore 1
+4780	.minecraft/saves/1.9 Pocket Universe/region
+4800	.minecraft/saves/1.9 Pocket Universe
+21296	.minecraft/saves/Pocket Universe/region
+21324	.minecraft/saves/Pocket Universe
+72860	.minecraft/saves
+2244	.minecraft/resources/newsound/mob
+4076	.minecraft/resources/newsound
+18812	.minecraft/resources/streaming
+12344	.minecraft/resources/newmusic
+6592	.minecraft/resources/music
+42004	.minecraft/resources
+1152	.minecraft/screenshots
+1752	.minecraft/bin/natives
+6760	.minecraft/bin
+127980	.minecraft
+510672	datasets
+4324	floppies
+1072	.libreoffice/3/user
+1076	.libreoffice/3
+1080	.libreoffice
+1472	EcommerceAutomator/amazon-mws-feeds-api-java/src/com/amazonaws/mws
+1476	EcommerceAutomator/amazon-mws-feeds-api-java/src/com/amazonaws
+1480	EcommerceAutomator/amazon-mws-feeds-api-java/src/com
+1492	EcommerceAutomator/amazon-mws-feeds-api-java/src
+4080	EcommerceAutomator/amazon-mws-feeds-api-java/third-party/jaxb-ri-2.1
+4892	EcommerceAutomator/amazon-mws-feeds-api-java/third-party
+6776	EcommerceAutomator/amazon-mws-feeds-api-java
+4648	EcommerceAutomator/.git/objects/pack
+4860	EcommerceAutomator/.git/objects
+5032	EcommerceAutomator/.git
+12068	EcommerceAutomator
+1084	html
+15572	Osmos/Textures
+14228	Osmos/Sounds
+31348	Osmos
+1696	Downloads/stratego_v0.8/skins
+1076	Downloads/stratego_v0.8/bin
+3268	Downloads/stratego_v0.8
+742708	Downloads
+12224	transcripts
+1060	.config
+28076	Music/Xinon/Moonlight Sympathy
+28080	Music/Xinon
+83600	Music/eric
+71056	Music/zatoichi
+33616	Music/midi
+111460	Music/Gravitation Vocal Collection OST
+67708	Music/weird al/straight outta lynwood
+67712	Music/weird al
+73268	Music/Dr. Steel/People of Earth
+95544	Music/Dr. Steel/Dr. Steel
+63164	Music/Dr. Steel/Dr. Steel II Eclectic Boogaloo
+231980	Music/Dr. Steel
+81484	Music/SoulEye - PPPPPP
+10912	Music/noise
+19352	Music/Death Note Ost/Death Note Movie Insert Song - Manatsu no Yoru no Yume [Suga Shikao]
+171032	Music/Death Note Ost/DEATH NOTE TRIBUTE/[Nipponsei] DEATH NOTE TRIBUTE
+171036	Music/Death Note Ost/DEATH NOTE TRIBUTE
+115036	Music/Death Note Ost/Death Note OP2 ED2 Single - What's up, people! [Maximum The Hormone]
+171652	Music/Death Note Ost/DEATH NOTE Original Soundtrack II
+75020	Music/Death Note Ost/DEATH NOTE Songs For Death Note The Movie ~The Last Name Tribute~/[Nipponsei] DEATH NOTE Songs For Death Note The Movie ~The Last Name Tribute~
+75024	Music/Death Note Ost/DEATH NOTE Songs For Death Note The Movie ~The Last Name Tribute~
+21036	Music/Death Note Ost/Death Note OP ED Single - the WORLD [Nightmare]
+573140	Music/Death Note Ost
+240908	Music/sandisk
+41840	Music/A Perfect Circle/Mer de Noms
+47628	Music/A Perfect Circle/Thirteenth Step
+89484	Music/A Perfect Circle
+148400	Music/Tool/Lateralus
+145432	Music/Tool/ænima
+103800	Music/Tool/Salival
+72392	Music/Tool/10,000 Days
+128204	Music/Tool/Undertow
+50800	Music/Tool/Opiate
+32204	Music/Tool/Toolshed (demo)
+681236	Music/Tool
+67600	Music/Xinon VS Sabrepulse/Realization
+67604	Music/Xinon VS Sabrepulse
+64560	Music/daft_punk/human after all
+72068	Music/daft_punk/discovery
+136632	Music/daft_punk
+2959108	Music
+1472	.mozilla/firefox/hlie3t3z.Minimalist Browser
+1448	.mozilla/firefox/cj6nc56p.default/Cache/3/FB
+2004	.mozilla/firefox/cj6nc56p.default/Cache/3/30
+2320	.mozilla/firefox/cj6nc56p.default/Cache/3/0F
+1160	.mozilla/firefox/cj6nc56p.default/Cache/3/81
+1552	.mozilla/firefox/cj6nc56p.default/Cache/3/58
+22868	.mozilla/firefox/cj6nc56p.default/Cache/3
+1652	.mozilla/firefox/cj6nc56p.default/Cache/B/DE
+1252	.mozilla/firefox/cj6nc56p.default/Cache/B/26
+1748	.mozilla/firefox/cj6nc56p.default/Cache/B/59
+1528	.mozilla/firefox/cj6nc56p.default/Cache/B/55
+1800	.mozilla/firefox/cj6nc56p.default/Cache/B/A1
+1556	.mozilla/firefox/cj6nc56p.default/Cache/B/19
+1464	.mozilla/firefox/cj6nc56p.default/Cache/B/6B
+1540	.mozilla/firefox/cj6nc56p.default/Cache/B/81
+1560	.mozilla/firefox/cj6nc56p.default/Cache/B/9B
+25796	.mozilla/firefox/cj6nc56p.default/Cache/B
+2148	.mozilla/firefox/cj6nc56p.default/Cache/C/7A
+1788	.mozilla/firefox/cj6nc56p.default/Cache/C/91
+1924	.mozilla/firefox/cj6nc56p.default/Cache/C/C9
+3176	.mozilla/firefox/cj6nc56p.default/Cache/C/5D
+22480	.mozilla/firefox/cj6nc56p.default/Cache/C
+3516	.mozilla/firefox/cj6nc56p.default/Cache/F/F6
+2304	.mozilla/firefox/cj6nc56p.default/Cache/F/B7
+1564	.mozilla/firefox/cj6nc56p.default/Cache/F/F8
+1660	.mozilla/firefox/cj6nc56p.default/Cache/F/0D
+1536	.mozilla/firefox/cj6nc56p.default/Cache/F/F7
+1796	.mozilla/firefox/cj6nc56p.default/Cache/F/CA
+3324	.mozilla/firefox/cj6nc56p.default/Cache/F/54
+1540	.mozilla/firefox/cj6nc56p.default/Cache/F/44
+1040	.mozilla/firefox/cj6nc56p.default/Cache/F/F9
+1340	.mozilla/firefox/cj6nc56p.default/Cache/F/0A
+1960	.mozilla/firefox/cj6nc56p.default/Cache/F/2B
+33904	.mozilla/firefox/cj6nc56p.default/Cache/F
+1684	.mozilla/firefox/cj6nc56p.default/Cache/A/B4
+1872	.mozilla/firefox/cj6nc56p.default/Cache/A/26
+2012	.mozilla/firefox/cj6nc56p.default/Cache/A/B0
+1612	.mozilla/firefox/cj6nc56p.default/Cache/A/73
+1320	.mozilla/firefox/cj6nc56p.default/Cache/A/66
+2548	.mozilla/firefox/cj6nc56p.default/Cache/A/5C
+1484	.mozilla/firefox/cj6nc56p.default/Cache/A/C9
+1492	.mozilla/firefox/cj6nc56p.default/Cache/A/F3
+31328	.mozilla/firefox/cj6nc56p.default/Cache/A
+1616	.mozilla/firefox/cj6nc56p.default/Cache/5/63
+1388	.mozilla/firefox/cj6nc56p.default/Cache/5/DD
+2380	.mozilla/firefox/cj6nc56p.default/Cache/5/18
+1036	.mozilla/firefox/cj6nc56p.default/Cache/5/E1
+1524	.mozilla/firefox/cj6nc56p.default/Cache/5/B6
+2016	.mozilla/firefox/cj6nc56p.default/Cache/5/82
+1428	.mozilla/firefox/cj6nc56p.default/Cache/5/93
+2272	.mozilla/firefox/cj6nc56p.default/Cache/5/DA
+25756	.mozilla/firefox/cj6nc56p.default/Cache/5
+2032	.mozilla/firefox/cj6nc56p.default/Cache/8/06
+1284	.mozilla/firefox/cj6nc56p.default/Cache/8/9A
+2408	.mozilla/firefox/cj6nc56p.default/Cache/8/2F
+1480	.mozilla/firefox/cj6nc56p.default/Cache/8/CE
+3004	.mozilla/firefox/cj6nc56p.default/Cache/8/98
+1536	.mozilla/firefox/cj6nc56p.default/Cache/8/4F
+4240	.mozilla/firefox/cj6nc56p.default/Cache/8/9D
+2140	.mozilla/firefox/cj6nc56p.default/Cache/8/C8
+32700	.mozilla/firefox/cj6nc56p.default/Cache/8
+2344	.mozilla/firefox/cj6nc56p.default/Cache/D/76
+1464	.mozilla/firefox/cj6nc56p.default/Cache/D/E5
+1552	.mozilla/firefox/cj6nc56p.default/Cache/D/19
+1500	.mozilla/firefox/cj6nc56p.default/Cache/D/FA
+1560	.mozilla/firefox/cj6nc56p.default/Cache/D/0B
+1504	.mozilla/firefox/cj6nc56p.default/Cache/D/5D
+1540	.mozilla/firefox/cj6nc56p.default/Cache/D/96
+1552	.mozilla/firefox/cj6nc56p.default/Cache/D/38
+4248	.mozilla/firefox/cj6nc56p.default/Cache/D/BD
+1576	.mozilla/firefox/cj6nc56p.default/Cache/D/53
+1796	.mozilla/firefox/cj6nc56p.default/Cache/D/28
+3500	.mozilla/firefox/cj6nc56p.default/Cache/D/52
+1796	.mozilla/firefox/cj6nc56p.default/Cache/D/CF
+5008	.mozilla/firefox/cj6nc56p.default/Cache/D/C5
+45780	.mozilla/firefox/cj6nc56p.default/Cache/D
+1532	.mozilla/firefox/cj6nc56p.default/Cache/0/3D
+1628	.mozilla/firefox/cj6nc56p.default/Cache/0/1B
+1592	.mozilla/firefox/cj6nc56p.default/Cache/0/D8
+1588	.mozilla/firefox/cj6nc56p.default/Cache/0/E7
+1400	.mozilla/firefox/cj6nc56p.default/Cache/0/06
+1672	.mozilla/firefox/cj6nc56p.default/Cache/0/2E
+2460	.mozilla/firefox/cj6nc56p.default/Cache/0/B2
+1580	.mozilla/firefox/cj6nc56p.default/Cache/0/55
+1516	.mozilla/firefox/cj6nc56p.default/Cache/0/02
+1628	.mozilla/firefox/cj6nc56p.default/Cache/0/D6
+2172	.mozilla/firefox/cj6nc56p.default/Cache/0/FA
+1640	.mozilla/firefox/cj6nc56p.default/Cache/0/B5
+35820	.mozilla/firefox/cj6nc56p.default/Cache/0
+1384	.mozilla/firefox/cj6nc56p.default/Cache/4/5B
+3120	.mozilla/firefox/cj6nc56p.default/Cache/4/38
+2468	.mozilla/firefox/cj6nc56p.default/Cache/4/C5
+22980	.mozilla/firefox/cj6nc56p.default/Cache/4
+2532	.mozilla/firefox/cj6nc56p.default/Cache/6/57
+1464	.mozilla/firefox/cj6nc56p.default/Cache/6/F7
+2492	.mozilla/firefox/cj6nc56p.default/Cache/6/A9
+2364	.mozilla/firefox/cj6nc56p.default/Cache/6/18
+1600	.mozilla/firefox/cj6nc56p.default/Cache/6/E1
+1704	.mozilla/firefox/cj6nc56p.default/Cache/6/98
+1472	.mozilla/firefox/cj6nc56p.default/Cache/6/17
+1832	.mozilla/firefox/cj6nc56p.default/Cache/6/F3
+1608	.mozilla/firefox/cj6nc56p.default/Cache/6/10
+2316	.mozilla/firefox/cj6nc56p.default/Cache/6/65
+32164	.mozilla/firefox/cj6nc56p.default/Cache/6
+1448	.mozilla/firefox/cj6nc56p.default/Cache/2/C1
+1892	.mozilla/firefox/cj6nc56p.default/Cache/2/B4
+1036	.mozilla/firefox/cj6nc56p.default/Cache/2/B0
+1584	.mozilla/firefox/cj6nc56p.default/Cache/2/1D
+1544	.mozilla/firefox/cj6nc56p.default/Cache/2/74
+1560	.mozilla/firefox/cj6nc56p.default/Cache/2/0E
+1432	.mozilla/firefox/cj6nc56p.default/Cache/2/9D
+1540	.mozilla/firefox/cj6nc56p.default/Cache/2/41
+1292	.mozilla/firefox/cj6nc56p.default/Cache/2/FE
+5060	.mozilla/firefox/cj6nc56p.default/Cache/2/51
+30888	.mozilla/firefox/cj6nc56p.default/Cache/2
+2244	.mozilla/firefox/cj6nc56p.default/Cache/1/8E
+1532	.mozilla/firefox/cj6nc56p.default/Cache/1/1C
+1468	.mozilla/firefox/cj6nc56p.default/Cache/1/50
+1560	.mozilla/firefox/cj6nc56p.default/Cache/1/64
+1164	.mozilla/firefox/cj6nc56p.default/Cache/1/30
+1644	.mozilla/firefox/cj6nc56p.default/Cache/1/3C
+2532	.mozilla/firefox/cj6nc56p.default/Cache/1/5F
+1336	.mozilla/firefox/cj6nc56p.default/Cache/1/2C
+1668	.mozilla/firefox/cj6nc56p.default/Cache/1/D5
+4544	.mozilla/firefox/cj6nc56p.default/Cache/1/52
+1600	.mozilla/firefox/cj6nc56p.default/Cache/1/1E
+1548	.mozilla/firefox/cj6nc56p.default/Cache/1/C5
+35340	.mozilla/firefox/cj6nc56p.default/Cache/1
+1188	.mozilla/firefox/cj6nc56p.default/Cache/9/B4
+1256	.mozilla/firefox/cj6nc56p.default/Cache/9/F4
+2472	.mozilla/firefox/cj6nc56p.default/Cache/9/6C
+1624	.mozilla/firefox/cj6nc56p.default/Cache/9/49
+1788	.mozilla/firefox/cj6nc56p.default/Cache/9/68
+1656	.mozilla/firefox/cj6nc56p.default/Cache/9/4E
+1544	.mozilla/firefox/cj6nc56p.default/Cache/9/AC
+24500	.mozilla/firefox/cj6nc56p.default/Cache/9
+1092	.mozilla/firefox/cj6nc56p.default/Cache/7/23
+2520	.mozilla/firefox/cj6nc56p.default/Cache/7/B2
+1484	.mozilla/firefox/cj6nc56p.default/Cache/7/55
+1412	.mozilla/firefox/cj6nc56p.default/Cache/7/2F
+1316	.mozilla/firefox/cj6nc56p.default/Cache/7/85
+1536	.mozilla/firefox/cj6nc56p.default/Cache/7/35
+1840	.mozilla/firefox/cj6nc56p.default/Cache/7/33
+1304	.mozilla/firefox/cj6nc56p.default/Cache/7/9F
+1232	.mozilla/firefox/cj6nc56p.default/Cache/7/28
+4484	.mozilla/firefox/cj6nc56p.default/Cache/7/CD
+1492	.mozilla/firefox/cj6nc56p.default/Cache/7/1E
+32164	.mozilla/firefox/cj6nc56p.default/Cache/7
+2312	.mozilla/firefox/cj6nc56p.default/Cache/E/D8
+1560	.mozilla/firefox/cj6nc56p.default/Cache/E/75
+1352	.mozilla/firefox/cj6nc56p.default/Cache/E/E5
+1548	.mozilla/firefox/cj6nc56p.default/Cache/E/05
+2032	.mozilla/firefox/cj6nc56p.default/Cache/E/2B
+1564	.mozilla/firefox/cj6nc56p.default/Cache/E/10
+23944	.mozilla/firefox/cj6nc56p.default/Cache/E
+530448	.mozilla/firefox/cj6nc56p.default/Cache
+4368	.mozilla/firefox/cj6nc56p.default/safebrowsing
+2612	.mozilla/firefox/cj6nc56p.default/autopager
+22684	.mozilla/firefox/cj6nc56p.default/greasefire@skrul.com/indexes
+22688	.mozilla/firefox/cj6nc56p.default/greasefire@skrul.com
+4308	.mozilla/firefox/cj6nc56p.default/extensions
+1332	.mozilla/firefox/cj6nc56p.default/startupCache
+5204	.mozilla/firefox/cj6nc56p.default/adblockplus
+636332	.mozilla/firefox/cj6nc56p.default
+1364	.mozilla/firefox/7qh8qsb5.default/Cache
+12616	.mozilla/firefox/7qh8qsb5.default
+651016	.mozilla/firefox
+651024	.mozilla
+2044	minecraft/beta 1.9 pre3
+1928	minecraft/beta 1.9 pre1
+3708	minecraft/beta 1.8
+2580	minecraft/old worlds/zakserver/DIM-1/region
+2584	minecraft/old worlds/zakserver/DIM-1
+7088	minecraft/old worlds/zakserver/region
+9700	minecraft/old worlds/zakserver
+2544	minecraft/old worlds/world/DIM-1/region
+2548	minecraft/old worlds/world/DIM-1
+4628	minecraft/old worlds/world/region
+7200	minecraft/old worlds/world
+16904	minecraft/old worlds
+321964	minecraft/Downloads
+6724	minecraft/zakserver_nether/DIM-1/region
+6728	minecraft/zakserver_nether/DIM-1
+6756	minecraft/zakserver_nether
+2984	minecraft/zakserver/DIM1/region
+2988	minecraft/zakserver/DIM1
+75232	minecraft/zakserver/region
+78568	minecraft/zakserver
+2536	minecraft/zakserver_skylands/DIM1/region
+2540	minecraft/zakserver_skylands/DIM1
+2568	minecraft/zakserver_skylands
+447340	minecraft
+2884	Pictures
+12408	99haskell
+2300	ankiIR/libxmlmods
+1552	ankiIR/.git/objects
+1704	ankiIR/.git
+4444	ankiIR
+4476	.vvvvvv/levels
+4492	.vvvvvv
+1788	.macromedia/Flash_Player/#SharedObjects/2FMZW4AE
+1792	.macromedia/Flash_Player/#SharedObjects
+2528	.macromedia/Flash_Player
+2532	.macromedia
+2708	adom
+1656	log_merge_project/raw_data/PidginPortable - logs 1/jabber/vanceza@gmail.com%2f
+3104	log_merge_project/raw_data/PidginPortable - logs 1/jabber/vanceza@gmail.com
+2096	log_merge_project/raw_data/PidginPortable - logs 1/jabber/vanceza@chat.facebook.com
+8028	log_merge_project/raw_data/PidginPortable - logs 1/jabber
+1360	log_merge_project/raw_data/PidginPortable - logs 1/msn/za3k@za3k.com/cyberleo@cyberleo.net
+2620	log_merge_project/raw_data/PidginPortable - logs 1/msn/za3k@za3k.com
+1872	log_merge_project/raw_data/PidginPortable - logs 1/msn/vanceza@gmail.com/runnerwwr@msn.com
+1124	log_merge_project/raw_data/PidginPortable - logs 1/msn/vanceza@gmail.com/lain_proliant@hotmail.com
+1444	log_merge_project/raw_data/PidginPortable - logs 1/msn/vanceza@gmail.com/ericlis@hotmail.com
+4952	log_merge_project/raw_data/PidginPortable - logs 1/msn/vanceza@gmail.com
+7576	log_merge_project/raw_data/PidginPortable - logs 1/msn
+1064	log_merge_project/raw_data/PidginPortable - logs 1/aim/za3k@za3k.com/onetruecalculus
+1348	log_merge_project/raw_data/PidginPortable - logs 1/aim/za3k@za3k.com
+1936	log_merge_project/raw_data/PidginPortable - logs 1/aim/vanceza@gmail.com/notprd
+1900	log_merge_project/raw_data/PidginPortable - logs 1/aim/vanceza@gmail.com/isalyk
+1008	log_merge_project/raw_data/PidginPortable - logs 1/aim/vanceza@gmail.com/alicorn24
+7628	log_merge_project/raw_data/PidginPortable - logs 1/aim/vanceza@gmail.com
+9460	log_merge_project/raw_data/PidginPortable - logs 1/aim
+26572	log_merge_project/raw_data/PidginPortable - logs 1
+8012	log_merge_project/raw_data/email/Pre-Gmail.sbd
+1736	log_merge_project/raw_data/email/Old Sent.sbd
+27712	log_merge_project/raw_data/email
+4812	log_merge_project/raw_data/ericMSN
+1900	log_merge_project/raw_data/Logs/AIM.vanceza@gmail.com
+1012	log_merge_project/raw_data/Logs/GTalk.vanceza@gmail.com/blume.mike@gmail.com
+2888	log_merge_project/raw_data/Logs/GTalk.vanceza@gmail.com
+6532	log_merge_project/raw_data/Logs
+2352	log_merge_project/raw_data/tenthousandangrypapercranes972829137/History
+2356	log_merge_project/raw_data/tenthousandangrypapercranes972829137
+1384	log_merge_project/raw_data/AIMLogger/vanceza@gmail.com/IM Logs
+1388	log_merge_project/raw_data/AIMLogger/vanceza@gmail.com
+1392	log_merge_project/raw_data/AIMLogger
+1288	log_merge_project/raw_data/Pidgin logs 2/jabber/vanceza@gmail.com
+1652	log_merge_project/raw_data/Pidgin logs 2/jabber
+4208	log_merge_project/raw_data/Pidgin logs 2/omegle/me
+4212	log_merge_project/raw_data/Pidgin logs 2/omegle
+1024	log_merge_project/raw_data/Pidgin logs 2/aim/vanceza@gmail.com
+1204	log_merge_project/raw_data/Pidgin logs 2/aim
+7340	log_merge_project/raw_data/Pidgin logs 2
+78384	log_merge_project/raw_data
+78392	log_merge_project
+13628	Documents
+11452	.xmonad
+79668	revengeofthetitans

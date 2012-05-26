@@ -1,0 +1,4 @@
+#!/bin/bash
+python treemap.py rawdata > temp
+sudo cp temp /srv/http/data.xml
+rm temp
