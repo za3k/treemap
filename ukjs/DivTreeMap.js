@@ -92,32 +92,45 @@ DivTreeMap.prototype.paint = function( displayNode, displayRect, level )
 		// The magic heuristic: if the box label is too big - don't render the box at all
 		// Get the width/height of the label - is it larger than the destined cell?
 		if( label.clientWidth + DivTreeMap.LEFT_MARGIN > coords.width || label.clientHeight > coords.height )
+		{ 
+			// Try shortening the label
+			label.innerHTML = facade.getName().substring(0,10)+"...";
+		}
+		if( label.clientWidth + DivTreeMap.LEFT_MARGIN > coords.width || label.clientHeight > coords.height )
 		{
 			// label.client* are not set until after they're parented, so we have to do this at least once
-			this.rootDIV.removeChild( box );
 			this.rootDIV.removeChild( label );
-			continue;
-		}
 		
-		// Recurse into the child node - if sensible
-		if( isParentNode )
+			// Recurse into the child node - if sensible
+			if( isParentNode )
+			{
+				box.onclick = this.createCallback( "onZoomClick", facade.getNode(), box, true );
+			} else {
+				box.onclick = this.createCallback( "onBoxClick", facade.getNode(), box, true );
+			}
+		}
+		else
 		{
-			label.onclick = this.createCallback( "onZoomClick", facade.getNode(), box, true );
-			label.href="#"; // No HREF, and it doesn't render as a link
+			// Recurse into the child node - if sensible
+			if( isParentNode )
+			{
+				label.onclick = this.createCallback( "onZoomClick", facade.getNode(), box, true );
+				label.href="#"; // No HREF, and it doesn't render as a link
+				
+				// Shrink the coordinates to show the parent box
+				var subRect = facade.getCoords().shrink( label.clientHeight );
+				if( subRect !== null )
+					this.paint( facade.getNode(), subRect, level +1 );
+			} else {
+				label.onclick = this.createCallback( "onBoxClick", facade.getNode(), box, true );
+			}
 			
-			// Shrink the coordinates to show the parent box
-			var subRect = facade.getCoords().shrink( label.clientHeight );
-			if( subRect !== null )
-				this.paint( facade.getNode(), subRect, level +1 );
-		} else {
-			label.onclick = this.createCallback( "onBoxClick", facade.getNode(), box, true );
+			// Some minimal event handling
+			box.onclick = this.createCallback( "onBoxClick", facade.getNode(), box, true );
 		}
-		
+			
 		var dataNode = facade.getNode();
-		
-		// Some minimal event handling
-		box.onclick = this.createCallback( "onBoxClick", facade.getNode(), box, true );
-		
+			
 		// Hook up other events
 		box.onmouseover = this.createCallback( "onMouseOver", facade.getNode(), box, false );
 		box.onmouseout = this.createCallback( "onMouseOut", facade.getNode(), box, false );
