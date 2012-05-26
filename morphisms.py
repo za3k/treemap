@@ -5,19 +5,20 @@ class Tree(object):
     def isbranch(self):
         return isinstance(self, Branch)
 class Leaf(Tree):
-    def __init__(self, ob):
-        self.ob = ob
+    def __init__(self, node):
+        self.node = node
     def __str__(self):
-        return str(self.ob)
+        return str(self.node)
     def __repr__(self):
-        return "Leaf({0})".format(repr(self.ob))
+        return "Leaf({0})".format(repr(self.node))
 class Branch(Tree):
-    def __init__(self, t):
+    def __init__(self, n, t):
         self.branches = list(t)
+        self.node = n
     def __str__(self):
-        return str(self.branches)
+        return "Branch({0},{1})".format(str(self.node),str(self.branches))
     def __repr__(self):
-        return "Branch({0})".format(repr(self.branches))
+        return "Branch({0},{1})".format(repr(self.node),repr(self.branches))
 
 def reducetree(leaff, branchf, tree):
     """
@@ -26,10 +27,10 @@ def reducetree(leaff, branchf, tree):
     reduceTree (f, g) (Branch (l,r)) = g (reduceTree (f, g) l) (reduceTree (f, g) r)
     """
     if tree.isleaf(): 
-        return leaff(tree.ob)
+        return leaff(tree.node)
     elif tree.isbranch():
         tp = partial(reducetree, leaff, branchf)
-        return branchf(list(map(tp, tree.branches)))
+        return branchf(tree.node, list(map(tp, tree.branches)))
     else:
         assert(false)
 
@@ -40,23 +41,42 @@ def unspooltree1(unspool, initial):
         return Leaf(a)
     elif b is not None:
         assert(a is None)
+        n,t = b
         up = partial(unspooltree, unspool)
-        return Branch(map(up, b))
+        return Branch(n, map(up, t))
     assert(False)
 def unspooltree3(p, l, r, initial):
     if p(initial):
         return Leaf(l(initial))
     else:
         up = partial(unspooltree3, p, l, r)
-        return Branch(map(up, r(initial)))
+        node, branches = r(initial)
+        return Branch(node, map(up, branches))
 
 def treemap(f, t):
     if t.isbranch():
         tt = partial(treemap, f)
-        return Branch(map(tt, t.branches))
+        return Branch(f(t.node), map(tt, t.branches))
     elif t.isleaf():
-        return Leaf(f(t.ob))
-    assert(false)
+        return Leaf(f(t.node))
+    assert (false)
+def treemap_with_benefits_bottomup(fl, fb, t):
+    if t.isbranch():
+        tt = partial(treemap_with_benefits_bottomup, fl, fb)
+        newbranches = list(map(tt, t.branches))
+        return Branch(fb(t.node, newbranches), newbranches)
+    elif t.isleaf():
+        return Leaf(fl(t.node))
+    assert (false)
+def treemap_with_benefits_topdown(fl, fb, t):
+    if t.isbranch():
+        tt = partial(treemap_with_benefits_topdown, fl, fb)
+        newnode = fb(t.node, t.branches)
+        return Branch(newnode, list(map(tt, t.branches)))
+    elif t.isleaf():
+        return Leaf(fl(t.node))
+    assert (false)
+
 
 def unfold(p, f, initial):
     """
@@ -68,6 +88,9 @@ def unfold(p, f, initial):
         a, b = f(initial)
         up = partial(unfold, p, f)
         return [a] + up(b)
+
+def identity(a):
+    return a
 
 def metamorphism(l, b, p, fl, fb, i):
     return unspooltree3(p, fl, fb, reducetree(l, b, i))
